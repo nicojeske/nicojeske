@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Nico Jeske! I'm currently in the first semester of my Master's studies in Computer Science at the [Technical University of Dortmund](https://www.tu-dortmund.de/). I'm passionate about software development and continuously strive to educate myself and improve my skills in this field. My current focus is on learning more about AI and developing minor apps for Android.
+Hi, I'm Nico Jeske! I'm currently writing my Master thesis in Computer Science at the [Technical University of Dortmund](https://www.tu-dortmund.de/). I'm passionate about software development and continuously strive to educate myself and improve my skills in this field. Currently I am working as an IT Consultant in the Insurance industry while also doing some minor side projects here on Github.
 
 ## Connect with Me 🌐
 
@@ -17,6 +17,7 @@ You can also find some of my repos on my self-hosted [OneDev](https://git.nicoje
 
 ### 🧑‍💻 Programming languages
 
+![Java](https://img.shields.io/badge/java-8A2BE2?style=flat-square)
 ![C#](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
