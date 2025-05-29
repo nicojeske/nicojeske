@@ -45,6 +45,7 @@ You can also find some of my repos on my self-hosted [OneDev](https://git.nicoje
 
 ### ☁️ DevOps & Cloud
 
+![Kubernetes](https://img.shields.io/badge/-kubernetes-326CE5?style=flat-square&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure%20Developer%20Associate-232F7E?style=flat-square&logo=microsoft-azure)
