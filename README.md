@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Nico Jeske! I'm currently writing my Master thesis in Computer Science at the [Technical University of Dortmund](https://www.tu-dortmund.de/). I'm passionate about software development and continuously strive to educate myself and improve my skills in this field. Currently I am working as an IT Consultant in the Insurance industry while also doing some minor side projects here on Github.
+Hi, I'm Nico Jeske! I'm an IT Consultant in the insurance industry with a Master of Science in Computer Science from TU Dortmund. I'm highly passionate about software development and continuously expanding my technical skill set. When I'm not consulting, you can find me working on various side projects here on GitHub.
 
 ## Connect with Me 🌐
 
